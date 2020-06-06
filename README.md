@@ -1,2 +1,1 @@
-# goit-markup-hw-05
-goit-markup-hw-05
+https://adya27.github.io/goit-markup-hw-05/
